@@ -27,7 +27,7 @@ RUN conda install -y python=$PYTHON_VERSION && \
     conda clean -tipsy
 
 # Runtime image
-FROM nvidia/cuda:10.0-base
+FROM nvidia/cuda:11.3.0-base
 
 ARG CONDA_DIR=/opt/conda
 
