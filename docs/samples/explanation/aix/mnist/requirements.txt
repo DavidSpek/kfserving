@@ -98,6 +98,6 @@ wcwidth==0.1.9
 webencodings==0.5.1
 Werkzeug==1.0.1
 wrapt==1.12.1
-xgboost==1.0.2
+xgboost==1.4.2
 xport==2.0.2
 zipp==3.1.0
