@@ -35,7 +35,7 @@ jupyter-core==4.6.3
 jupyterlab==2.0.1
 jupyterlab-server==1.0.7
 kfserving==0.3.0
-kubernetes==10.0.1
+kubernetes==17.17.0
 MarkupSafe==1.1.1
 minio==5.0.7
 mistune==0.8.4

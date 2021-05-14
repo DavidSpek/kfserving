@@ -16,7 +16,7 @@ google-resumable-media==0.5.0
 googleapis-common-protos==1.51.0
 idna==2.8
 kfserving==0.3.0
-kubernetes==10.0.1
+kubernetes==17.17.0
 minio==5.0.7
 numpy==1.18.1
 oauthlib==3.1.0
