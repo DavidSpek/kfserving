@@ -1,4 +1,4 @@
-FROM golang:1.12 as builder
+FROM golang:1.16.5 as builder
 
 # Retrieve the dependencies.
 RUN go get google.golang.org/grpc
