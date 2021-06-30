@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.9.6
 
 COPY alibiexplainer alibiexplainer
 COPY kfserving kfserving
